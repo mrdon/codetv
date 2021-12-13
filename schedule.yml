@@ -1,0 +1,20 @@
+segments:
+  - type: up-next
+    duration: 5s
+  - type: video
+    name: Video 1
+    file: videos/video1.mp4
+    link: https://www.youtube.com/watch?v=M2ySRYpo9S0
+    duration: 14s
+    tags:
+      - python
+  - type: up-next
+    duration: 10s
+  - type: video
+    name: Video 2
+    file: videos/video2.mp4
+    link: https://www.youtube.com/
+    duration: 17s
+    tags:
+      - java
+

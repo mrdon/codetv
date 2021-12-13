@@ -1,0 +1,87 @@
+{% extends "layout.html" %}
+{% block title %}Messages{% endblock %}
+{% block head %}
+{{ super() }}
+<style type="text/css">
+    div.row:nth-child(even) {
+        background: #EEE
+    }
+
+    div.row:nth-child(odd) {
+        background: #FFF
+    }
+
+    div.row {
+        padding: 10px;
+    }
+
+    .button-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-gap: 10px;
+        padding: 10px;
+        font-size: 20pt;
+    }
+    .section {
+        background-color: yellow;
+    }
+    .scene {
+        background-color: blue;
+    }
+    button {
+        padding: 20px;
+    }
+</style>
+{% raw %}
+<script id="badge-template" type="text/x-handlebars-template">
+    <span class="badge badge-info badge-tag">{{this}}</span>
+</script>
+<script id="tag-template" type="text/x-handlebars-template">
+    <button type="button" class="btn btn-primary btn-tag">{{this}}</button>
+</script>
+<script id="message-template" type="text/x-handlebars-template">
+    <div class="col-4">
+        <div class="username">
+            {{author.username}}
+        </div>
+        <div class="author-tags">
+            {{#each author.tags}}
+            {{> badge }}
+            {{/each}}
+        </div>
+    </div>
+    <div class="col-8">
+        {{#each tags}}
+        {{> tag }}
+        {{/each}}
+    </div>
+</script>
+{% endraw %}
+{% endblock %}
+{% block content %}
+<form action="/button-click">
+    <input type="hidden" name="show" value="{{ show }}" />
+    <div class="button-grid scene">
+        {% for scene in scenes %}
+            <button name="scene" type="submit" value="{{ scene.obs_name }}">{{ scene.label }}</button>
+        {% endfor %}
+    </div>
+    <div class="button-grid section">
+        {% for key in sections %}
+        <button name="section" type="submit" value="{{ key }}">{{ key }}</button>
+        {% endfor %}
+    </div>
+
+</form>
+<!--    <div class="container-fluid" id="messages">-->
+<!--        <div class="row">-->
+<!--            As people chat in the room, tags will be suggested for the authors.-->
+<!--            {% if is_guest %}-->
+<!--            You need to be an authenticated user (i.e. not guest) to click the tags.-->
+<!--            {% else %}-->
+<!--            Click on a tag to associate them with the person.-->
+<!--            {% endif %}-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <script type="text/javascript" src="{{ url_for('static', filename='broadcast.js') }}"></script>-->
+{% endblock %}

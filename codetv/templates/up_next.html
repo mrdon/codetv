@@ -1,0 +1,27 @@
+{% extends "slides_master.html" %}
+{% block title %}Up Next{% endblock %}
+{% block content %}
+<section>
+<h2>Up next</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Segment</th>
+            <th>Minutes</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for segment in next_segments %}
+        <tr>
+            <td>{{segment.name}}</td>
+            <td>{{next_offsets[loop.index0]}}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<ol>
+
+</ol>
+</section>
+{% endblock %}
