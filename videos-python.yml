@@ -1,0 +1,271 @@
+ignored:
+- https://www.youtube.com/watch?v=pYTDM7jec4Y
+- https://www.youtube.com/watch?v=bvkkPvmBrE8
+- https://www.youtube.com/watch?v=GH0kAw0iRcU
+- https://www.youtube.com/watch?v=NtCYMVtuD5s
+- https://www.youtube.com/watch?v=TMTjAK2gLQQ
+- https://www.youtube.com/watch?v=wq_uzvE24Ug
+- https://www.youtube.com/watch?v=e43rb7aH6xc
+- https://www.youtube.com/watch?v=eb1Jq3r5V1s
+- https://www.youtube.com/watch?v=zaUBorFEMDk
+- https://www.youtube.com/watch?v=CbItZLbYgN4
+- https://www.youtube.com/watch?v=cFrp0YlqIcI
+- https://www.youtube.com/watch?v=IyOhu_zwrMo
+- https://www.youtube.com/watch?v=AhAOWXG6meE
+- https://www.youtube.com/watch?v=Q3CAc_mXFiY
+- https://www.youtube.com/watch?v=goRfX66LuoI
+- https://www.youtube.com/watch?v=18rAOifTDck
+- https://www.youtube.com/watch?v=5JCg_fwOvv8
+- https://www.youtube.com/watch?v=qvhyirY3ltc
+- https://www.youtube.com/watch?v=yJEMioQWQLY
+- https://www.youtube.com/watch?v=1s-FaWWu4L4
+- https://www.youtube.com/watch?v=M02gTiPWEFM
+- https://www.youtube.com/watch?v=aFXiaNDS12U
+- https://www.youtube.com/watch?v=x6fYjlDWGLw
+- https://www.youtube.com/watch?v=vc_vzPMIF5A
+- https://www.youtube.com/watch?v=N9GLskFmp28
+- https://www.youtube.com/watch?v=0Ut37-Dy3fs
+- https://www.youtube.com/watch?v=nsWYy6ngJ6E
+- https://www.youtube.com/watch?v=fX2zfs5Iiig
+- https://www.youtube.com/watch?v=Gs4V83Wd470
+- https://www.youtube.com/watch?v=iJVk_3H1Rvg
+- https://www.youtube.com/watch?v=w9bfTptarIA
+- https://www.youtube.com/watch?v=NQLSiJdw1vo
+- https://www.youtube.com/watch?v=FEyRzv2XXzw
+- https://www.youtube.com/watch?v=NRUf37_Qosc
+- https://www.youtube.com/watch?v=cOOA-JSwzng
+- https://www.youtube.com/watch?v=B8ty6ppoYpM
+- https://www.youtube.com/watch?v=c4vOizmKi88
+- https://www.youtube.com/watch?v=M6BGTaZYyL4
+- https://www.youtube.com/watch?v=IOo1KvPwVsU
+- https://www.youtube.com/watch?v=gZRB3Fu_fxM
+- https://www.youtube.com/watch?v=hwqrdjQxMQw
+- https://www.youtube.com/watch?v=ilmT28VpA5o
+- https://www.youtube.com/watch?v=F_0eK_-RtPo
+- https://www.youtube.com/watch?v=PLRg4a-NF7s
+- https://www.youtube.com/watch?v=xxnwnz0TchU
+- https://www.youtube.com/watch?v=HWEv6ai0SSQ
+- https://www.youtube.com/watch?v=hStCSNHwNrs
+- https://www.youtube.com/watch?v=fjocKVHugik
+- https://www.youtube.com/watch?v=Adgmy4k-6QA
+- https://www.youtube.com/watch?v=sv8PISVgIm0
+- https://www.youtube.com/watch?v=lYR5zoWxXDw
+- https://www.youtube.com/watch?v=XVNrbZyfZTY
+- https://www.youtube.com/watch?v=omvos08sJjs
+- https://www.youtube.com/watch?v=NoI2bjNxSog
+videos:
+- channel:
+    id: UC7cs8q-gJRlGwj4A8OmCmXg
+    title: Alex The Analyst
+  description: R and Python are the programming language of choice for most data analyst
+    and scientists. Let's take a look at them and see ...
+  publishTime: '2021-02-16T12:00:00Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/1gdKC5O0Pwc/hqdefault.jpg
+    width: 480
+  title: R vs Python | Which is Better for Data Analysis?
+  url: https://www.youtube.com/watch?v=1gdKC5O0Pwc
+- channel:
+    id: UCj7i-mmOjLV17YTPIrCPkog
+    title: Alan D Moore Codes
+  description: We'll look at a common beginner pitfall related to file paths, and
+    how to correctly include non-python files in your code. Example ...
+  publishTime: '2020-05-04T21:20:07Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/7VSttyOXSXk/hqdefault.jpg
+    width: 480
+  title: 'Python Basics:  File Paths'
+  url: https://www.youtube.com/watch?v=7VSttyOXSXk
+- channel:
+    id: UCVls1GmFKf6WlTraIb_IaJg
+    title: DistroTube
+  description: I don't know when it became cool to talk smack about Python. Nowadays,
+    when someone brings up Python or talks about a piece ...
+  publishTime: '2021-12-04T20:46:04Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/TYiRI_HtLIk/hqdefault.jpg
+    width: 480
+  title: Refusing To Use Programs Written In Python
+  url: https://www.youtube.com/watch?v=TYiRI_HtLIk
+- channel:
+    id: UC2vm-0XX5RkWCXWwtBZGOXg
+    title: TokyoEdtech
+  description: In this series I explain how animation works and how to code animated
+    sprites in Python 3 using the Turtle Module. All code and ...
+  publishTime: '2020-04-17T07:54:27Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/mIQR6GUxZZI/hqdefault.jpg
+    width: 480
+  title: 'Basic Animation in Python 3 Part 1: Basic Principles'
+  url: https://www.youtube.com/watch?v=mIQR6GUxZZI
+- channel:
+    id: UC1AgWV7PLk_uVDkh35VVf9w
+    title: Kian Brose
+  description: Hello! Today I will show you how to make image recognition bots as
+    fast as possible using Python. I will cover the basics of ...
+  publishTime: '2020-03-11T18:37:10Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/YRAIUA-Oc1Y/hqdefault.jpg
+    width: 480
+  title: How to make advanced image recognition bots using python
+  url: https://www.youtube.com/watch?v=YRAIUA-Oc1Y
+- channel:
+    id: UCVeW9qkBjo3zosnqUbG7CFw
+    title: John Hammond
+  description: 'If you would like to support me, please like, comment & subscribe,
+    and check me out on Patreon: ...'
+  publishTime: '2019-06-09T15:30:02Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/gmaWOknsb2A/hqdefault.jpg
+    width: 480
+  title: HSCTF - Python Remote Code Execution (A Simple Conversation)
+  url: https://www.youtube.com/watch?v=gmaWOknsb2A
+- channel:
+    id: UCfgSHpMOBXqmtqufxgVp68g
+    title: johan godinho
+  description: How to create a digital clock using python and Tkinter - for beginners.
+    This is a simple tutorial that will show you how to use the ...
+  publishTime: '2020-08-23T17:00:12Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/of3qzqAnJrI/hqdefault.jpg
+    width: 480
+  title: Python Tutorial - How to create a digital clock using python and tkinter
+    - for beginners
+  url: https://www.youtube.com/watch?v=of3qzqAnJrI
+- channel:
+    id: UCfgSHpMOBXqmtqufxgVp68g
+    title: johan godinho
+  description: How to create an image downloader using python for beginners - This
+    tutorial will show you how to use the requests module in ...
+  publishTime: '2020-08-14T17:00:14Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/RDpOVCRC9MM/hqdefault.jpg
+    width: 480
+  title: Python tutorial - How to create an image downloader using python for beginners
+  url: https://www.youtube.com/watch?v=RDpOVCRC9MM
+- channel:
+    id: UClCB_NDN1-cmbhIEPQcf83A
+    title: Pythoholic
+  description: "So now let's talk about the interpreter, \u2B50 Kite is a free AI-powered\
+    \ coding assistant that will help you code faster and smarter."
+  publishTime: '2020-05-11T18:00:16Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/D4LZYSZ-VsM/hqdefault.jpg
+    width: 480
+  title: Is Python compiled or interpreted ? Python execution cycle
+  url: https://www.youtube.com/watch?v=D4LZYSZ-VsM
+- channel:
+    id: UCl21PtvimDYBtDafVUAz06A
+    title: Applied Data Science
+  description: Data Science often depends on information stored in Office file formats
+    Course materials for the Spring 2020 semester are ...
+  publishTime: '2020-02-15T22:33:44Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/LVWwAgsbU7M/hqdefault.jpg
+    width: 480
+  title: extract text from microsoft word document using Python
+  url: https://www.youtube.com/watch?v=LVWwAgsbU7M
+- channel:
+    id: UCJoPqixxBhY4xuxMqPfZEdg
+    title: Vikas Jha - An Indian Techy
+  description: 'Subscribe to Support the channel: https://youtube.com/c/vikasjha001?sub_confirmation=1
+    Need help? Message me on LinkedIn: ...'
+  publishTime: '2021-04-13T15:59:14Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/w9oWs-UlDn8/hqdefault.jpg
+    width: 480
+  title: Auto Tweet Using Python - Automate Twitter
+  url: https://www.youtube.com/watch?v=w9oWs-UlDn8
+- channel:
+    id: UCN7uBodTAg8KcsuDiJ9u4Rg
+    title: Mattia Conti
+  description: This course will give you a full introduction to all of the core concepts
+    in python and phyton graphics. In today's episode, I'll teach ...
+  publishTime: '2020-02-27T13:30:00Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/19DG_TOyAfs/hqdefault.jpg
+    width: 480
+  title: 'PERSPECTIVE PROJECTION: CUBE Python tutorial 2020 #30'
+  url: https://www.youtube.com/watch?v=19DG_TOyAfs
+- channel:
+    id: UCJoPqixxBhY4xuxMqPfZEdg
+    title: Vikas Jha - An Indian Techy
+  description: 'Subscribe to Support the channel: https://youtube.com/c/vikasjha001?sub_confirmation=1
+    Need help? Message me on LinkedIn: ...'
+  publishTime: '2021-02-20T19:29:04Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/cFrp0YlqIcI/hqdefault.jpg
+    width: 480
+  title: How to Get Data from InfluxDB and Export to MySQL Using Python - InfluxDB
+    Python MySQL
+  url: https://www.youtube.com/watch?v=cFrp0YlqIcI
+- channel:
+    id: UCYP0nk48grsMwO3iL8YaAKA
+    title: VoidRealms
+  description: In this video series we will cover Python 3. In this video we will
+    look communicating between threads, and how to use the queue.
+  publishTime: '2020-12-08T00:51:44Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/M02gTiPWEFM/hqdefault.jpg
+    width: 480
+  title: Python 3 - Episode 53 - Producer and consumer
+  url: https://www.youtube.com/watch?v=M02gTiPWEFM
+- channel:
+    id: UCYJgPerIeSixzceOoOarvYw
+    title: Adam Gaweda
+  description: ''
+  publishTime: '2020-04-14T03:24:53Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/MOnJG_eDgoo/hqdefault.jpg
+    width: 480
+  title: Descriptive Statistics in Python
+  url: https://www.youtube.com/watch?v=MOnJG_eDgoo
+- channel:
+    id: UCL0rF3rx8ShL9KfYqXrZ7kw
+    title: Algokodabra
+  description: 'Automate basic gameplay of the Idle Breakout clicker game using Python
+    3 and OpenCV library. Link to the GitHub repository: ...'
+  publishTime: '2020-11-12T15:50:25Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/OhhH3ikaaYA/hqdefault.jpg
+    width: 480
+  title: 'Idle Breakout Bot: automate the Idle Breakout game using Python and OpenCV'
+  url: https://www.youtube.com/watch?v=OhhH3ikaaYA
+- channel:
+    id: UCYJgPerIeSixzceOoOarvYw
+    title: Adam Gaweda
+  description: ''
+  publishTime: '2020-04-14T03:24:53Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/MOnJG_eDgoo/hqdefault.jpg
+    width: 480
+  title: Descriptive Statistics in Python
+  url: https://www.youtube.com/watch?v=MOnJG_eDgoo
+- channel:
+    id: UC107J_O7UO7M-Ic17JyWTWg
+    title: NetworkNectar
+  description: Please visit Network Automation with Python Tutorials ...
+  publishTime: '2020-09-29T19:26:58Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/Qb9FcVsGtdk/hqdefault.jpg
+    width: 480
+  title: 58.Complete Python Basics for Automation -  Example with subprocess module
+  url: https://www.youtube.com/watch?v=Qb9FcVsGtdk

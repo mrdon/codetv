@@ -12,6 +12,8 @@ pytz
 beautifulsoup4
 aiohttp
 feedparser
+youtube-python
+readchar
 
 black
 reorder-python-imports

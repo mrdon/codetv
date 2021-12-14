@@ -26,8 +26,12 @@ blinker==1.4
     # via quart
 cached-property==1.5.2
     # via aspy.refactor-imports
+certifi==2021.10.8
+    # via requests
 chardet==4.0.0
     # via aiohttp
+charset-normalizer==2.0.9
+    # via requests
 click==8.0.3
     # via
     #   black
@@ -49,7 +53,9 @@ hypercorn==0.12.0
 hyperframe==6.0.1
     # via h2
 idna==3.3
-    # via yarl
+    # via
+    #   requests
+    #   yarl
 iniconfig==1.1.1
     # via pytest
 iso8601==1.0.2
@@ -98,8 +104,12 @@ pyyaml==6.0
     # via -r requirements.in
 quart==0.16.1
     # via -r requirements.in
+readchar==3.0.4
+    # via -r requirements.in
 reorder-python-imports==2.6.0
     # via -r requirements.in
+requests==2.26.0
+    # via youtube-python
 sgmllib3k==1.0.0
     # via feedparser
 six==1.16.0
@@ -124,6 +134,8 @@ typing-extensions==4.0.1
     #   aiohttp
     #   black
     #   twitchio
+urllib3==1.26.7
+    # via requests
 websocket-client==1.2.3
     # via obs-websocket-py
 werkzeug==2.0.2
@@ -132,3 +144,5 @@ wsproto==1.0.0
     # via hypercorn
 yarl==1.7.2
     # via aiohttp
+youtube-python==1.0.13
+    # via -r requirements.in
