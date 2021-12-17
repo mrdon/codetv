@@ -1,0 +1,83 @@
+ignored:
+- https://www.youtube.com/watch?v=VR2r1TJCDew
+- https://www.youtube.com/watch?v=UxoklNY7L30
+- https://www.youtube.com/watch?v=g6XT-CZBB5c
+- https://www.youtube.com/watch?v=1vWWgwELQWM
+- https://www.youtube.com/watch?v=cN-Y91Ykn6w
+- https://www.youtube.com/watch?v=CyxhFWzpTsM
+- https://www.youtube.com/watch?v=hcrs2T_1gT8
+- https://www.youtube.com/watch?v=9g1Vw2QwgE0
+- https://www.youtube.com/watch?v=Ovx6kygvEw0
+- https://www.youtube.com/watch?v=c6o8Qu_cUpg
+- https://www.youtube.com/watch?v=jcoVTgLmY14
+- https://www.youtube.com/watch?v=_IEIUPyLxic
+- https://www.youtube.com/watch?v=ar9suzl-hdU
+- https://www.youtube.com/watch?v=kJp6FEwDB74
+- https://www.youtube.com/watch?v=XrkQ9Sh9WkI
+- https://www.youtube.com/watch?v=tWc4CMgsNWk
+- https://www.youtube.com/watch?v=_BZDM8LgGzg
+- https://www.youtube.com/watch?v=z5Vt9DuhtII
+- https://www.youtube.com/watch?v=c1r-cnqelGA
+- https://www.youtube.com/watch?v=wohswq3Qm5U
+- https://www.youtube.com/watch?v=zTWGaDQmJ4U
+- https://www.youtube.com/watch?v=VR2r1TJCDew
+- https://www.youtube.com/watch?v=UxoklNY7L30
+- https://www.youtube.com/watch?v=g6XT-CZBB5c
+- https://www.youtube.com/watch?v=1vWWgwELQWM
+- https://www.youtube.com/watch?v=cN-Y91Ykn6w
+- https://www.youtube.com/watch?v=CyxhFWzpTsM
+- https://www.youtube.com/watch?v=hcrs2T_1gT8
+- https://www.youtube.com/watch?v=9g1Vw2QwgE0
+- https://www.youtube.com/watch?v=Ovx6kygvEw0
+- https://www.youtube.com/watch?v=c6o8Qu_cUpg
+- https://www.youtube.com/watch?v=jcoVTgLmY14
+- https://www.youtube.com/watch?v=_IEIUPyLxic
+- https://www.youtube.com/watch?v=ar9suzl-hdU
+- https://www.youtube.com/watch?v=kJp6FEwDB74
+- https://www.youtube.com/watch?v=XrkQ9Sh9WkI
+- https://www.youtube.com/watch?v=tWc4CMgsNWk
+- https://www.youtube.com/watch?v=_BZDM8LgGzg
+- https://www.youtube.com/watch?v=z5Vt9DuhtII
+- https://www.youtube.com/watch?v=c1r-cnqelGA
+- https://www.youtube.com/watch?v=wohswq3Qm5U
+- https://www.youtube.com/watch?v=NuYDAs3kNV8
+- https://www.youtube.com/watch?v=ljth1Q5oJoo
+- https://www.youtube.com/watch?v=TOLplqari7g
+- https://www.youtube.com/watch?v=sQd1TCVMf1w
+- https://www.youtube.com/watch?v=nk2qeBBeZZE
+- https://www.youtube.com/watch?v=n2SPeWHqUPw
+- https://www.youtube.com/watch?v=mOgZdgM7TG0
+- https://www.youtube.com/watch?v=T3SB293IMMU
+- https://www.youtube.com/watch?v=234Rcdzg8K0
+- https://www.youtube.com/watch?v=Ty6kesGXaAA
+- https://www.youtube.com/watch?v=kpsMy68F2A8
+- https://www.youtube.com/watch?v=I7Zb4kXSevA
+- https://www.youtube.com/watch?v=KK7ubueGR_k
+- https://www.youtube.com/watch?v=yiWonmb2ViE
+- https://www.youtube.com/watch?v=yznPX93T0OU
+videos:
+- channel:
+    id: UCZKMj3YI0wP-kq4QYpaKdEA
+    title: OpenShift
+  description: Anish Asthana demonstrates how to use GitOps tools such as ArgoCD to
+    automate deployment and management of machine ...
+  publishTime: '2021-03-19T20:15:14Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/p8WGxiH55lE/hqdefault.jpg
+    width: 480
+  title: Automating JupyterHub deployments with ArgoCD
+  url: https://www.youtube.com/watch?v=p8WGxiH55lE
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: 'Speaker: Ivan Tarin Building container images manually or with scripts
+    means lots of moving variables to maintain and keep ...'
+  publishTime: '2021-08-05T10:00:18Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/v0fIJMX20VU/hqdefault.jpg
+    width: 480
+  title: 'Commit Virtual 2021: Automate Container Image Creation and Deploy to Kubernetes
+    Clusters'
+  url: https://www.youtube.com/watch?v=v0fIJMX20VU

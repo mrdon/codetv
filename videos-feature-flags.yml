@@ -1,0 +1,47 @@
+ignored:
+- https://www.youtube.com/watch?v=VR2r1TJCDew
+- https://www.youtube.com/watch?v=UxoklNY7L30
+- https://www.youtube.com/watch?v=g6XT-CZBB5c
+- https://www.youtube.com/watch?v=1vWWgwELQWM
+- https://www.youtube.com/watch?v=cN-Y91Ykn6w
+- https://www.youtube.com/watch?v=CyxhFWzpTsM
+- https://www.youtube.com/watch?v=hcrs2T_1gT8
+- https://www.youtube.com/watch?v=9g1Vw2QwgE0
+- https://www.youtube.com/watch?v=Ovx6kygvEw0
+- https://www.youtube.com/watch?v=c6o8Qu_cUpg
+- https://www.youtube.com/watch?v=jcoVTgLmY14
+- https://www.youtube.com/watch?v=_IEIUPyLxic
+- https://www.youtube.com/watch?v=ar9suzl-hdU
+- https://www.youtube.com/watch?v=kJp6FEwDB74
+- https://www.youtube.com/watch?v=XrkQ9Sh9WkI
+- https://www.youtube.com/watch?v=tWc4CMgsNWk
+- https://www.youtube.com/watch?v=_BZDM8LgGzg
+- https://www.youtube.com/watch?v=z5Vt9DuhtII
+- https://www.youtube.com/watch?v=c1r-cnqelGA
+- https://www.youtube.com/watch?v=wohswq3Qm5U
+videos:
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: GitLab 13.5 release showcase Feature Flag flex rollout https://about.gitlab.com/releases/2020/10/22/gitlab-13-5-released/
+    Get in ...
+  publishTime: '2020-11-18T10:32:10Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/13ISbAs5BQo/hqdefault.jpg
+    width: 480
+  title: Feature Flag flex rollout
+  url: https://www.youtube.com/watch?v=13ISbAs5BQo
+- channel:
+    id: UCspKgEH0gB9QQdrmKS5EVuQ
+    title: DevOpsDays Chicago
+  description: The best practice we know is driving to get software out the door more
+    quickly, at an ever-accelerating pace. We admire ...
+  publishTime: '2019-09-13T18:37:15Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/-ddce0fxfzs/hqdefault.jpg
+    width: 480
+  title: DevOpsDays Chicago 2019 - Heidi Waterhouse - Deploying Radically, Democratizing
+    Release
+  url: https://www.youtube.com/watch?v=-ddce0fxfzs

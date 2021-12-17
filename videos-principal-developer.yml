@@ -1,0 +1,30 @@
+ignored:
+- https://www.youtube.com/watch?v=VR2r1TJCDew
+- https://www.youtube.com/watch?v=UxoklNY7L30
+- https://www.youtube.com/watch?v=g6XT-CZBB5c
+- https://www.youtube.com/watch?v=1vWWgwELQWM
+- https://www.youtube.com/watch?v=cN-Y91Ykn6w
+- https://www.youtube.com/watch?v=CyxhFWzpTsM
+- https://www.youtube.com/watch?v=hcrs2T_1gT8
+- https://www.youtube.com/watch?v=9g1Vw2QwgE0
+- https://www.youtube.com/watch?v=Ovx6kygvEw0
+- https://www.youtube.com/watch?v=c6o8Qu_cUpg
+- https://www.youtube.com/watch?v=jcoVTgLmY14
+- https://www.youtube.com/watch?v=_IEIUPyLxic
+- https://www.youtube.com/watch?v=ar9suzl-hdU
+- https://www.youtube.com/watch?v=kJp6FEwDB74
+- https://www.youtube.com/watch?v=XrkQ9Sh9WkI
+videos:
+- channel:
+    id: UCvqbFHwN-nwalWPjPUKpvTA
+    title: CNCF [Cloud Native Computing Foundation]
+  description: 'Don''t miss out! Join us at our next event: KubeCon + CloudNativeCon
+    Europe 2022 in Valencia, Spain from May 17-20.'
+  publishTime: '2021-10-29T17:38:26Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/5FtcbSSBROw/hqdefault.jpg
+    width: 480
+  title: 'Keynote: Where Do We Go From Here? - Constance Caramanolis, Principal Software
+    Engineer, Splunk'
+  url: https://www.youtube.com/watch?v=5FtcbSSBROw

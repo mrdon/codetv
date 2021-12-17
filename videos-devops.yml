@@ -1,2 +1,259 @@
-ignored: []
-videos: []
+ignored:
+- https://www.youtube.com/watch?v=b3BPkyikvNM
+- https://www.youtube.com/watch?v=x8jGCPlp8N8
+- https://www.youtube.com/watch?v=qACbUTGmyHg
+- https://www.youtube.com/watch?v=Sy25AxJmPl0
+- https://www.youtube.com/watch?v=H_2l5yqI7Go
+- https://www.youtube.com/watch?v=ustaZU2Iz74
+- https://www.youtube.com/watch?v=VXy1HUC-TUI
+- https://www.youtube.com/watch?v=qskIb2Hilv4
+- https://www.youtube.com/watch?v=gweiSJGh7vI
+- https://www.youtube.com/watch?v=s56IVCe4pmM
+- https://www.youtube.com/watch?v=QAj3fsttKM4
+- https://www.youtube.com/watch?v=_SbZp7jsdK4
+- https://www.youtube.com/watch?v=TGSHPwxITfo
+- https://www.youtube.com/watch?v=uQK8z2itjwk
+- https://www.youtube.com/watch?v=dq7f1s0q3F4
+- https://www.youtube.com/watch?v=QP_wrNSXAp0
+- https://www.youtube.com/watch?v=1pOGMoXGefw
+- https://www.youtube.com/watch?v=jQjTrg4Zl9o
+- https://www.youtube.com/watch?v=GUYIpiQIh84
+- https://www.youtube.com/watch?v=L6vquUQOXSo
+- https://www.youtube.com/watch?v=xCZadI2H0xQ
+- https://www.youtube.com/watch?v=vqsmbwG4_Ro
+- https://www.youtube.com/watch?v=FiYXJW5R72s
+- https://www.youtube.com/watch?v=DygfGlWjQ-w
+- https://www.youtube.com/watch?v=KqgMjMH3Gds
+- https://www.youtube.com/watch?v=vlill1kHQs4
+- https://www.youtube.com/watch?v=1pzy0gaIraQ
+- https://www.youtube.com/watch?v=2Fha5dK5cL8
+- https://www.youtube.com/watch?v=Avx_RftRT_o
+- https://www.youtube.com/watch?v=XdT0P-5rpoQ
+- https://www.youtube.com/watch?v=nHItF7lqWTc
+- https://www.youtube.com/watch?v=8-22ZhXVeu8
+- https://www.youtube.com/watch?v=r6RUiFOl-JU
+- https://www.youtube.com/watch?v=O9MdFhaosRo
+- https://www.youtube.com/watch?v=nxvopK28gK8
+- https://www.youtube.com/watch?v=uOCksxTYn4s
+- https://www.youtube.com/watch?v=Epp_SPdJKLM
+- https://www.youtube.com/watch?v=jVUluNjo31s
+- https://www.youtube.com/watch?v=7oykaWk-xJo
+- https://www.youtube.com/watch?v=1s1WFYVJedQ
+- https://www.youtube.com/watch?v=sAAStmHOu1o
+videos:
+- channel:
+    id: UChqrDOwARrxdJF-ykAptc7w
+    title: Microsoft Visual Studio
+  description: With Azure Pipelines you can build and deploy your code written in
+    any language using any platform, no problem. In this video we ...
+  publishTime: '2018-09-10T14:45:00Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/NuYDAs3kNV8/hqdefault.jpg
+    width: 480
+  title: Building and Deploying your Code with Azure Pipelines
+  url: https://www.youtube.com/watch?v=NuYDAs3kNV8
+- channel:
+    id: UChqrDOwARrxdJF-ykAptc7w
+    title: Microsoft Visual Studio
+  description: Azure DevOps is the ultimate DevOps tool, for any language targeting
+    any platform. Now, Azure DevOps integrates seamlessly ...
+  publishTime: '2018-12-04T16:15:00Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/_gURf7CW1lg/hqdefault.jpg
+    width: 480
+  title: 'Azure DevOps: Azure Pipelines, Azure Boards + GitHub'
+  url: https://www.youtube.com/watch?v=_gURf7CW1lg
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: DevOps Platform - GitLab Product Overview Demo This video provides
+    an overview of how the many capabilities of GitLab tie ...
+  publishTime: '2020-04-02T02:15:09Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/7q9Y1Cv-ib0/hqdefault.jpg
+    width: 480
+  title: DevOps Platform - GitLab Product Overview Demo
+  url: https://www.youtube.com/watch?v=7q9Y1Cv-ib0
+- channel:
+    id: UChqrDOwARrxdJF-ykAptc7w
+    title: Microsoft Visual Studio
+  description: 'Announcing .NET Core 3.0: https://aka.ms/dotnetcore3 #dotNETConf It''s
+    2019 and we''re no longer trying to figure out if we should ...'
+  publishTime: '2019-09-24T19:10:14Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/iQ4HhdxCYN0/hqdefault.jpg
+    width: 480
+  title: DevOps for the .NET Developer
+  url: https://www.youtube.com/watch?v=iQ4HhdxCYN0
+- channel:
+    id: UCBYuGbHeNk_y4AKk3Ea0geA
+    title: School of Devops
+  description: If you like this video and want to learn more about Kubernetes, do
+    subscribe and click on the bell icon above to get notifications on ...
+  publishTime: '2020-08-14T06:12:39Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/sH-trYwjkkY/hqdefault.jpg
+    width: 480
+  title: CI/CD Workflow with Docker and Kubernetes
+  url: https://www.youtube.com/watch?v=sH-trYwjkkY
+- channel:
+    id: UCBYuGbHeNk_y4AKk3Ea0geA
+    title: School of Devops
+  description: When you want to deploy containers in Kubernetes, you wrap it up and
+    deploy it as a Pod. What are Pods then ? Why were they ...
+  publishTime: '2020-05-23T12:09:08Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/k0fzMZgpp14/hqdefault.jpg
+    width: 480
+  title: What is a Pod in kubernetes ? Why do you need it ?
+  url: https://www.youtube.com/watch?v=k0fzMZgpp14
+- channel:
+    id: UCBYuGbHeNk_y4AKk3Ea0geA
+    title: School of Devops
+  description: What is Kubernetes ? Why do you need a Container Orchestration Engine(COE)
+    ? Why Do you need Kubernetes ? How does ...
+  publishTime: '2020-08-07T05:30:11Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/WVY4x20pw1A/hqdefault.jpg
+    width: 480
+  title: This is why you need Kubernetes
+  url: https://www.youtube.com/watch?v=WVY4x20pw1A
+- channel:
+    id: UCEKI_F16hUtBHcw9tBtr24Q
+    title: AltexSoft
+  description: Using Agile practices in software development, we release a large chunk
+    of code at once. Consequently, we're fixing numerous ...
+  publishTime: '2020-12-09T10:56:35Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/s3AU6VchZS8/hqdefault.jpg
+    width: 480
+  title: 'The Essence of DevOps: Stages, Principles and Benefits'
+  url: https://www.youtube.com/watch?v=s3AU6VchZS8
+- channel:
+    id: UCY-nJEjw0lUvLIC27guTYcg
+    title: Srinivas Maganti
+  description: HashiCorp Packer automates the creation of any type of machine image.
+    It embraces modern configuration management by ...
+  publishTime: '2020-07-26T02:19:27Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/WKgcpOWrs9o/hqdefault.jpg
+    width: 480
+  title: What is Packer  | DevOps  Basics | DevOpsMadeEasy
+  url: https://www.youtube.com/watch?v=WKgcpOWrs9o
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: GitLab DevOps Platform 5 min Demo DevOps tools shouldn't create more
+    problems than they solve. As DevOps initiatives mature, ...
+  publishTime: '2021-07-26T20:00:22Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/1P3eDs9Zzyk/hqdefault.jpg
+    width: 480
+  title: GitLab DevOps Platform 5 min Demo
+  url: https://www.youtube.com/watch?v=1P3eDs9Zzyk
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: Using Azure DevOps Repos to manage the code, and GitLab CI/CD to build,
+    test and deploy it. In this video, we will demo how to ...
+  publishTime: '2020-06-02T10:23:52Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/HfpP2pEmkoM/hqdefault.jpg
+    width: 480
+  title: CI - Integrating Azure DevOps SCM and GitLab CI/CD
+  url: https://www.youtube.com/watch?v=HfpP2pEmkoM
+- channel:
+    id: UCEKI_F16hUtBHcw9tBtr24Q
+    title: AltexSoft
+  description: In this video, Ihor Pavlenko, a quality assurance competence leader
+    at Altexsoft, discusses the main stages of development in ...
+  publishTime: '2021-04-27T10:54:24Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/iM22iSKSRQo/hqdefault.jpg
+    width: 480
+  title: Development Stages in DevOps
+  url: https://www.youtube.com/watch?v=iM22iSKSRQo
+- channel:
+    id: UChqrDOwARrxdJF-ykAptc7w
+    title: Microsoft Visual Studio
+  description: In this second of two episodes, Robert is joined by Steve Jones to
+    discuss how you can use Redgate's DLM Automation tools to ...
+  publishTime: '2018-01-02T22:35:05Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/MrN2Tz8G5Is/hqdefault.jpg
+    width: 480
+  title: More Database DevOps with Redgate
+  url: https://www.youtube.com/watch?v=MrN2Tz8G5Is
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: Chief Architect (Head of Devops) William Chia, Senior Product Marketing
+    Manager at Gitlab reviews the common characteristics ...
+  publishTime: '2018-05-11T19:19:54Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/qyELotxsQzY/hqdefault.jpg
+    width: 480
+  title: Chief Architect (Head of Devops)
+  url: https://www.youtube.com/watch?v=qyELotxsQzY
+- channel:
+    id: UCBYuGbHeNk_y4AKk3Ea0geA
+    title: School of Devops
+  description: Who is up for a challenge ? I have designed a small, bite sized project
+    for you to practice on Docker and Docker Compose.
+  publishTime: '2020-06-04T08:44:24Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/8EA_FYazomc/hqdefault.jpg
+    width: 480
+  title: Devops Challenge 01 - Create a Docker Compose Spec for Setting up Jenkins
+  url: https://www.youtube.com/watch?v=8EA_FYazomc
+- channel:
+    id: UClUc0s40AA5FjjA-TRCQaeA
+    title: Arnaud Lheureux
+  description: Cloud Adoption Framework - Landing zones on Terraform - Update January
+    2021 Get started with Azure landing zones for ...
+  publishTime: '2021-02-02T08:50:11Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/KK7ubueGR_k/hqdefault.jpg
+    width: 480
+  title: Automated Azure DevOps Pipelines Creation - January 2021 Update
+  url: https://www.youtube.com/watch?v=KK7ubueGR_k
+- channel:
+    id: UC6z3JmrOvKjAHmM2_R4l2Tw
+    title: Stack Simplify
+  description: Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos complete
+    Course URL ...
+  publishTime: '2021-06-21T14:06:40Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/JVsq2vl2SpE/hqdefault.jpg
+    width: 480
+  title: Terraform on AWS with IaC DevOps using AWS CodePipeline
+  url: https://www.youtube.com/watch?v=JVsq2vl2SpE
+- channel:
+    id: UCBYuGbHeNk_y4AKk3Ea0geA
+    title: School of Devops
+  description: Learn devops for FREE with our 24 days Ultimate Devops Bootcamp https://www.schoolofdevops.net/p/ultimate-devops-bootcamp
+    ...
+  publishTime: '2018-07-17T03:30:02Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/BLktpM--0jA/hqdefault.jpg
+    width: 480
+  title: Role Based Access Control (RBAC) with Kubernetes
+  url: https://www.youtube.com/watch?v=BLktpM--0jA

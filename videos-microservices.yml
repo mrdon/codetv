@@ -1,0 +1,315 @@
+ignored:
+- https://www.youtube.com/watch?v=VR2r1TJCDew
+- https://www.youtube.com/watch?v=UxoklNY7L30
+- https://www.youtube.com/watch?v=g6XT-CZBB5c
+- https://www.youtube.com/watch?v=1vWWgwELQWM
+- https://www.youtube.com/watch?v=cN-Y91Ykn6w
+- https://www.youtube.com/watch?v=CyxhFWzpTsM
+- https://www.youtube.com/watch?v=hcrs2T_1gT8
+- https://www.youtube.com/watch?v=9g1Vw2QwgE0
+- https://www.youtube.com/watch?v=Ovx6kygvEw0
+- https://www.youtube.com/watch?v=c6o8Qu_cUpg
+- https://www.youtube.com/watch?v=jcoVTgLmY14
+videos:
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: Learn about inter microservice communication using asynchronous and
+    synchronous strategies.
+  publishTime: '2020-03-07T00:18:52Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/552Zf6ZE6GE/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE | INTER MICROSERVICES COMMUNICATION | PART - 7
+  url: https://www.youtube.com/watch?v=552Zf6ZE6GE
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: 'Learn about API GATEWAY and its necessary, advantages and disadvantages
+    #microservice #learnmicroservices ...'
+  publishTime: '2020-03-07T00:17:47Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/5OMx4R9VT-0/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE | API GATEWAY | PART - 5
+  url: https://www.youtube.com/watch?v=5OMx4R9VT-0
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: 'This video is the introduction to Microservices for beginners. #microservices
+    #learnmicroservices #systemdesign ...'
+  publishTime: '2020-03-07T00:17:04Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/-XGTjzz7nEs/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE  | INTRODUCTION TO MICROSERVICES | PART-1
+  url: https://www.youtube.com/watch?v=-XGTjzz7nEs
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: 'Learn the importance of service registry and its different patterns,
+    advantages and disadvantages. #microservice ...'
+  publishTime: '2020-03-07T05:23:35Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/LsJ1dw0qtWs/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE | SERVICE REGISTRY | PART - 6
+  url: https://www.youtube.com/watch?v=LsJ1dw0qtWs
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: In this video learn what is monolithic architecture and learn the advantages
+    and disadvantages about it and hence you will have ...
+  publishTime: '2020-03-07T00:17:21Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/NgyKTKyN4BU/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE | MONOLITHIC ARCHITECTURE | PART - 2
+  url: https://www.youtube.com/watch?v=NgyKTKyN4BU
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: 'Learn about how to protect your microservices communications using
+    circuit breaking. #circuitbreaking #microservice ...'
+  publishTime: '2020-03-07T02:11:03Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/5XeVoHtFGo0/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE | CIRCUIT BREAKING | PART - 8
+  url: https://www.youtube.com/watch?v=5XeVoHtFGo0
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: In this video learn about how to look an application from microservices
+    point of view and break an application to small services.
+  publishTime: '2020-03-07T00:17:34Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/wAm93j5Sm9U/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE  | FUNCTIONAL DECOMPOSITION | PART-3
+  url: https://www.youtube.com/watch?v=wAm93j5Sm9U
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: 'Learn about service mesh and its importance, advantages and disadvantages.
+    #servicemeshtotorial #microservice ...'
+  publishTime: '2020-03-07T02:10:49Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/q-EkBbfuiAo/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE | SERVICE MESH | PART - 9
+  url: https://www.youtube.com/watch?v=q-EkBbfuiAo
+- channel:
+    id: UCn1XnDWhsLS5URXTi5wtFTA
+    title: Tech Dummies Narendra L
+  description: 'Learn strategies to scale the microservices. #microservice #learnmicroservices
+    #totorialssystemdesign #microservicestutorials ...'
+  publishTime: '2020-03-07T00:00:12Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/pKeVUSNT6zE/hqdefault.jpg
+    width: 480
+  title: MICROSERVICES ARCHITECTURE | SCALE CUBE | PART - 4
+  url: https://www.youtube.com/watch?v=pKeVUSNT6zE
+- channel:
+    id: UC5AMiWqFVFxF1q9Ya1FuZ_Q
+    title: OktaDev
+  description: 'This video shows how to create a reactive microservices architecture
+    using Spring Boot, Spring WebFlux, and JHipster. Blog post: ...'
+  publishTime: '2021-05-13T14:00:15Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/clkEUHWT9-M/hqdefault.jpg
+    width: 480
+  title: Build Reactive Java Microservices with Spring Boot and JHipster
+  url: https://www.youtube.com/watch?v=clkEUHWT9-M
+- channel:
+    id: UC-Z7T0lAq_xECevIz8E5R5w
+    title: Mark Richards
+  description: In a microservices ecosystem orchestration between microservices should
+    not be performed in the API Gateway, but rather ...
+  publishTime: '2019-01-06T05:00:26Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/R0gSwuS8zTM/hqdefault.jpg
+    width: 480
+  title: Lesson 43 - Microservices Orchestration Pattern
+  url: https://www.youtube.com/watch?v=R0gSwuS8zTM
+- channel:
+    id: UC5AMiWqFVFxF1q9Ya1FuZ_Q
+    title: OktaDev
+  description: This screencast shows you how to build a Java-based microservices architecture
+    with Spring Boot and Spring Cloud Config using ...
+  publishTime: '2019-09-13T09:42:23Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/ez7HMO60kE8/hqdefault.jpg
+    width: 480
+  title: Java Microservices in 12 Minutes with Spring Cloud Config and JHipster
+  url: https://www.youtube.com/watch?v=ez7HMO60kE8
+- channel:
+    id: UC-Z7T0lAq_xECevIz8E5R5w
+    title: Mark Richards
+  description: In the prior lesson (lesson 44) Mark Richards showed how to do orchestration
+    within a microservices ecosystem. But what about ...
+  publishTime: '2019-01-13T15:07:37Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/fZkMxA_TKS4/hqdefault.jpg
+    width: 480
+  title: Lesson 44 - Microservices Aggregation Pattern
+  url: https://www.youtube.com/watch?v=fZkMxA_TKS4
+- channel:
+    id: UC5AMiWqFVFxF1q9Ya1FuZ_Q
+    title: OktaDev
+  description: This screencast shows you how to build a microservices architecture
+    with Spring Boot, Netflix Eureka, Feign, and Hystrix.
+  publishTime: '2018-05-17T15:39:18Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/IsVgIuUcMQQ/hqdefault.jpg
+    width: 480
+  title: Build a Microservices Architecture with Spring Boot
+  url: https://www.youtube.com/watch?v=IsVgIuUcMQQ
+- channel:
+    id: UCazkIMpjghmT8fugD1WF_DQ
+    title: Singapore Gophers
+  description: 'Speaker: Michael Farinacci, WeWork Integration testing microservices
+    is an extremely difficult task when systems are large, but it ...'
+  publishTime: '2019-05-20T09:07:07Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/5iVDYga9ts0/hqdefault.jpg
+    width: 480
+  title: Writing Microservice Integration Tests in Go (Finally) - GopherCon SG 2019
+  url: https://www.youtube.com/watch?v=5iVDYga9ts0
+- channel:
+    id: UCFzGyNKXPAglNq28qWYTDFA
+    title: Kai Hendry
+  description: Feels like the industry is trying to figure this out! https://dabase.com/blog/2021/Microservice-timeouts/
+    ...
+  publishTime: '2021-02-15T04:51:20Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/clagrT5BC7g/hqdefault.jpg
+    width: 480
+  title: Microservices are ruining my life
+  url: https://www.youtube.com/watch?v=clagrT5BC7g
+- channel:
+    id: UChqrDOwARrxdJF-ykAptc7w
+    title: Microsoft Visual Studio
+  description: 'Sample on GitHub: http://aka.ms/smarthotel360 This is the second of
+    a five part series where Robert is joined by various technical ...'
+  publishTime: '2018-02-02T20:59:44Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/E7eA-ou9PbU/hqdefault.jpg
+    width: 480
+  title: 'SmartHotel360 Sample App Deep Dive: ASP.NET web, Microservices &amp; Azure
+    Cosmos DB'
+  url: https://www.youtube.com/watch?v=E7eA-ou9PbU
+- channel:
+    id: UCAC2AFfB0DFmiIeOEEJ7uhA
+    title: Matt Raible
+  description: A quick overview of where the UI code lives and how it works when using
+    JHipster 6 microservices.
+  publishTime: '2019-07-31T17:27:17Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/-QCuWgLQmdg/hqdefault.jpg
+    width: 480
+  title: JHipster 6 Microservices UI Overview
+  url: https://www.youtube.com/watch?v=-QCuWgLQmdg
+- channel:
+    id: UC-Z7T0lAq_xECevIz8E5R5w
+    title: Mark Richards
+  description: In this lesson Mark Richards shows how to effectively communicate between
+    Microservices and third-party or custom applications ...
+  publishTime: '2019-01-20T00:00:53Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/PKIypT8vmIc/hqdefault.jpg
+    width: 480
+  title: Lesson 45 - Microservices Gateway Pattern
+  url: https://www.youtube.com/watch?v=PKIypT8vmIc
+- channel:
+    id: UC-Z7T0lAq_xECevIz8E5R5w
+    title: Mark Richards
+  description: Googles Remote Procedure Call (gRPC) is another alternative for communicating
+    between microservices. With gRPC we can ...
+  publishTime: '2019-05-19T12:12:37Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/ctzM1osMmrI/hqdefault.jpg
+    width: 480
+  title: Lesson 60 - Microservices and gRPC
+  url: https://www.youtube.com/watch?v=ctzM1osMmrI
+- channel:
+    id: UC-Z7T0lAq_xECevIz8E5R5w
+    title: Mark Richards
+  description: In this lesson Mark Richards discusses versioning within a microservices
+    ecosystem and shows why and how to do contract-level ...
+  publishTime: '2018-11-11T19:06:33Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/iUpD4ZS8qg4/hqdefault.jpg
+    width: 480
+  title: Lesson 41 - Microservices Contract Versioning
+  url: https://www.youtube.com/watch?v=iUpD4ZS8qg4
+- channel:
+    id: UCRX2GGMGmt9phKFoOElKA_A
+    title: Michael Potter
+  description: Hey everyone! Authenticating users across multiple microservices and
+    applications is a huge challenge. Wouldn't it be amazing if ...
+  publishTime: '2019-11-08T14:40:41Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/obxNix6w2aE/hqdefault.jpg
+    width: 480
+  title: Authenticating Microservices with JWT and Web Components
+  url: https://www.youtube.com/watch?v=obxNix6w2aE
+- channel:
+    id: UCS1NeZF0Or2E1RAV9hQJz3g
+    title: Code with tkssharma
+  description: https://github.com/tkssharma/nodejs-microservices-patterns Node JS
+    Microservices Building simple Microservice What are ...
+  publishTime: '2020-10-03T11:02:21Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/_ua89EuoAhE/hqdefault.jpg
+    width: 480
+  title: 'Creating Microservices with Typescript #06'
+  url: https://www.youtube.com/watch?v=_ua89EuoAhE
+- channel:
+    id: UCS1NeZF0Or2E1RAV9hQJz3g
+    title: Code with tkssharma
+  description: "Subscribe \u25BB https://www.youtube.com/user/vibbbbbba?sub_confirmation=1\
+    \ \u25BB \u200D     Watch All My Playlist ..."
+  publishTime: '2020-05-23T08:42:35Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/oaz4blE_WQU/hqdefault.jpg
+    width: 480
+  title: Using Graphql as API Gateway (MicroServices and Different Architecture)
+  url: https://www.youtube.com/watch?v=oaz4blE_WQU
+- channel:
+    id: UCEBh-gof8_hcjXvZf2HaN_g
+    title: API the Docs
+  description: 'API Design for Microservices Using Apiary by Luis Weir, API The Docs
+    London 2018 Talk Description: "It''s not news anymore that ...'
+  publishTime: '2018-11-29T16:22:47Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/SpvNGOUovqQ/hqdefault.jpg
+    width: 480
+  title: API Design for Microservices Using Apiary | Luis Weir | API The Docs London
+    2018
+  url: https://www.youtube.com/watch?v=SpvNGOUovqQ

@@ -1,0 +1,121 @@
+ignored:
+- https://www.youtube.com/watch?v=NuYDAs3kNV8
+- https://www.youtube.com/watch?v=ljth1Q5oJoo
+- https://www.youtube.com/watch?v=TOLplqari7g
+- https://www.youtube.com/watch?v=sQd1TCVMf1w
+- https://www.youtube.com/watch?v=nk2qeBBeZZE
+- https://www.youtube.com/watch?v=n2SPeWHqUPw
+- https://www.youtube.com/watch?v=mOgZdgM7TG0
+- https://www.youtube.com/watch?v=T3SB293IMMU
+- https://www.youtube.com/watch?v=234Rcdzg8K0
+- https://www.youtube.com/watch?v=Ty6kesGXaAA
+videos:
+- channel:
+    id: UCSq8iEW2JkpQj7mBU3zYtEA
+    title: Juriy Bura
+  description: 'From the simple build script to a dedicated automated build server:
+    how to improve your build process to create more reliable, ...'
+  publishTime: '2019-06-26T17:15:23Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/2MVIeqUMk4k/hqdefault.jpg
+    width: 480
+  title: Continuous Integration for Node.js
+  url: https://www.youtube.com/watch?v=2MVIeqUMk4k
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: GitLab's Continuous Delivery Overview (CD) This is a demo overview
+    of how GitLab can help you make your releases safe, low ...
+  publishTime: '2020-12-15T15:58:29Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/QArt7rqfbqk/hqdefault.jpg
+    width: 480
+  title: GitLab&#39;s Continuous Delivery Overview (CD)
+  url: https://www.youtube.com/watch?v=QArt7rqfbqk
+- channel:
+    id: UCRjnjPqSWVn2e0EQxQlZEzw
+    title: Adam Parkin
+  description: Now that we got Travis building automatically on pushes, and have the
+    safety check of no merges allowed when the build fails, the ...
+  publishTime: '2018-06-05T14:05:17Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/H77DeSjAe-k/hqdefault.jpg
+    width: 480
+  title: Travis CI - Part 4 Deploying the Site
+  url: https://www.youtube.com/watch?v=H77DeSjAe-k
+- channel:
+    id: UCEKI_F16hUtBHcw9tBtr24Q
+    title: AltexSoft
+  description: In this video, Ihor Pavlenko, a quality assurance competence leader
+    at Altexsoft, discusses the main stages of development in ...
+  publishTime: '2021-04-27T10:54:24Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/iM22iSKSRQo/hqdefault.jpg
+    width: 480
+  title: Development Stages in DevOps
+  url: https://www.youtube.com/watch?v=iM22iSKSRQo
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: Automated and Integrated Continuous Delivery (CD) This video showcases
+    GitLab's automated and integrated continuous ...
+  publishTime: '2021-01-21T19:21:37Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/blJT8f6ZDH8/hqdefault.jpg
+    width: 480
+  title: Automated and Integrated Continuous Delivery (CD)
+  url: https://www.youtube.com/watch?v=blJT8f6ZDH8
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: Unified and integrated monitoring and deployment strategies (CD) This
+    video showcases GitLab's unified and integrated ...
+  publishTime: '2020-11-23T17:32:41Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/ihdxpO5rgSc/hqdefault.jpg
+    width: 480
+  title: Unified and integrated monitoring and deployment strategies (CD)
+  url: https://www.youtube.com/watch?v=ihdxpO5rgSc
+- channel:
+    id: UCSRhwaM00ay0fasnsw6EXKA
+    title: dotconferences
+  description: Filmed at https://2018.dotscale.io on June 1st in Paris. More talks
+    on https://www.dotconferences.com/talks Continuous ...
+  publishTime: '2018-07-10T13:06:22Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/N181gp9gouY/hqdefault.jpg
+    width: 480
+  title: "dotScale 2018 - Matthias Dugu\xE9 - Git as a continuous manager"
+  url: https://www.youtube.com/watch?v=N181gp9gouY
+- channel:
+    id: UCBYuGbHeNk_y4AKk3Ea0geA
+    title: School of Devops
+  description: the devops story The Devops Story is a series of videos to explain
+    the origin of devops, where it all began, how it evolved and, key ...
+  publishTime: '2018-03-27T03:30:00Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/UvIA2oB1-P8/hqdefault.jpg
+    width: 480
+  title: 'The Devops Story - Part X :  Continuous Delivery and Deployment'
+  url: https://www.youtube.com/watch?v=UvIA2oB1-P8
+- channel:
+    id: UCWnPjmqvljcafA0z2U1fwKQ
+    title: Confreaks
+  description: 'Heidi Waterhouse - Ignite: Deploying Radically, Democratizing Release
+    The best practice we know is driving to get software out ...'
+  publishTime: '2019-09-09T21:21:25Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/CUguzJq7VsA/hqdefault.jpg
+    width: 480
+  title: 'DevOpsDays Chicago 2019 - Heidi Waterhouse - Ignite: Deploying Radically,
+    Democratizing Release'
+  url: https://www.youtube.com/watch?v=CUguzJq7VsA

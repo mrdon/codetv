@@ -1,0 +1,121 @@
+ignored:
+- https://www.youtube.com/watch?v=7SM8GLArTDY
+- https://www.youtube.com/watch?v=ljth1Q5oJoo
+- https://www.youtube.com/watch?v=2MVIeqUMk4k
+- https://www.youtube.com/watch?v=jzplW5TfWxs
+- https://www.youtube.com/watch?v=IDDTOhZKBaU
+- https://www.youtube.com/watch?v=QArt7rqfbqk
+- https://www.youtube.com/watch?v=H77DeSjAe-k
+- https://www.youtube.com/watch?v=iM22iSKSRQo
+- https://www.youtube.com/watch?v=b-iT2zy1d-A
+- https://www.youtube.com/watch?v=blJT8f6ZDH8
+- https://www.youtube.com/watch?v=Bz1DIYKkK6w
+- https://www.youtube.com/watch?v=45NNenLdk0I
+- https://www.youtube.com/watch?v=sQd1TCVMf1w
+- https://www.youtube.com/watch?v=ogB8XS30IfY
+- https://www.youtube.com/watch?v=YMIVVexph4c
+- https://www.youtube.com/watch?v=UvIA2oB1-P8
+- https://www.youtube.com/watch?v=nk2qeBBeZZE
+- https://www.youtube.com/watch?v=PwB37-4-WkA
+- https://www.youtube.com/watch?v=Gp2-K4tPZuw
+- https://www.youtube.com/watch?v=n2SPeWHqUPw
+- https://www.youtube.com/watch?v=T3SB293IMMU
+- https://www.youtube.com/watch?v=AudhxsIb7hI
+- https://www.youtube.com/watch?v=i9ZRr80Tk6A
+videos:
+- channel:
+    id: UCnMGQ8QHMAnVIsI3xJrihhg
+    title: GitLab
+  description: With Feature Flags, you can deploy your application's new features
+    to production in smaller batches. You can toggle a feature on ...
+  publishTime: '2020-08-25T06:17:47Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/_BZDM8LgGzg/hqdefault.jpg
+    width: 480
+  title: Continuous Delivery - Feature flags demo
+  url: https://www.youtube.com/watch?v=_BZDM8LgGzg
+- channel:
+    id: UCvqbFHwN-nwalWPjPUKpvTA
+    title: CNCF [Cloud Native Computing Foundation]
+  description: Argo graduated to an incubated project for CNCF last year to respond
+    to keep up with the needs for application developers.
+  publishTime: '2021-04-30T13:00:21Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/SELZh-wHpAw/hqdefault.jpg
+    width: 480
+  title: Delivering GitOps with Argo CD
+  url: https://www.youtube.com/watch?v=SELZh-wHpAw
+- channel:
+    id: UCfX55Sx5hEFjoC3cNs6mCUQ
+    title: The Linux Foundation
+  description: Swapnil Bhartiya of TFiR interviews Tracy Miranda, Executive Director
+    of the Continuous Delivery Foundation.
+  publishTime: '2020-12-01T15:30:54Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/Mo3S3e0Pf8U/hqdefault.jpg
+    width: 480
+  title: Interview with Tracy Miranda, Continuous Delivery Foundation
+  url: https://www.youtube.com/watch?v=Mo3S3e0Pf8U
+- channel:
+    id: UCDHao9FxNRHw1VyLuGXI_rA
+    title: Hasgeek TV
+  description: The Branch by Abstraction and Strangler Pattern makes significant application
+    changes easier. Are there any similar patterns we ...
+  publishTime: '2018-05-11T09:55:10Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/zWLV5XFQqgY/hqdefault.jpg
+    width: 480
+  title: Expand Contract Pattern for Continuous Delivery of Databases by Leena S N
+  url: https://www.youtube.com/watch?v=zWLV5XFQqgY
+- channel:
+    id: UCvqbFHwN-nwalWPjPUKpvTA
+    title: CNCF [Cloud Native Computing Foundation]
+  description: "Don't miss out! Join us at our upcoming event: KubeCon + CloudNativeCon\
+    \ Europe 2021 Virtual from May 4\u20137, 2021. Learn more ..."
+  publishTime: '2020-12-04T17:37:03Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/WfAhBzXbmKo/hqdefault.jpg
+    width: 480
+  title: 'Sponsored Session: Rancher - Kubernetes GitOps with Rancher Continuous Delivery'
+  url: https://www.youtube.com/watch?v=WfAhBzXbmKo
+- channel:
+    id: UC6tcGOzUVOGpUe-PFzpILmg
+    title: James Ward
+  description: This demo walks through the steps to setup Continuous Delivery with
+    Cloud Run (serverless container hosting on Google Cloud ...
+  publishTime: '2020-01-31T00:08:00Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/vwh4hLGDxFw/hqdefault.jpg
+    width: 480
+  title: Continuous Delivery with Cloud Run
+  url: https://www.youtube.com/watch?v=vwh4hLGDxFw
+- channel:
+    id: UCfX55Sx5hEFjoC3cNs6mCUQ
+    title: The Linux Foundation
+  description: 'Lightning Talk: Continuous Delivery with Kubernetes: The Prequel -
+    Priyanka Sharma, Director of Alliances, GitLab and Governing ...'
+  publishTime: '2019-10-02T02:56:12Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/M91KXLEhBME/hqdefault.jpg
+    width: 480
+  title: 'Lightning Talk: Continuous Delivery with Kubernetes: The Prequel - Priyanka
+    Sharma'
+  url: https://www.youtube.com/watch?v=M91KXLEhBME
+- channel:
+    id: UC_Hsaz4bX0rlLE0jOARAhhQ
+    title: Bart Massey
+  description: Discussion of CI/CD in software development.
+  publishTime: '2020-10-14T09:52:16Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/Ty6kesGXaAA/hqdefault.jpg
+    width: 480
+  title: 'PSU CS 300 Software Engineering: Continuous Integration and Deployment'
+  url: https://www.youtube.com/watch?v=Ty6kesGXaAA

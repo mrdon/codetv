@@ -5,6 +5,7 @@ from typing import Dict, List
 
 import readchar as readchar
 import yaml
+from slugify import slugify
 from yaml import Loader
 from youtube import API
 
@@ -16,17 +17,22 @@ load_dotenv(".secrets")
 api = API(None, None, api_key=os.getenv("YOUTUBE_API_KEY"))
 MAX_VIDEOS = 50
 
-for keyword in ("python", "java", "devops", "continuous deployment", "continuous delivery", "rust"):
+ignored_videos = []
+loaded_videos = []
 
-    print(f"Fetch {keyword} videos? [Y/n]")
-    c = readchar.readchar()
-    if c != '\r' and c.upper() != 'Y':
-        print(f'Skipping {keyword}')
-        continue
+ignored_videos_file = "ignored-videos.yml"
+if os.path.exists(ignored_videos_file):
+    with open(ignored_videos_file, "r") as f:
+        data = yaml.load(f, Loader=Loader)
+        ignored_videos.extend(data.get("ignored", []))
 
-    output_file = f"videos-{keyword}.yml"
-    ignored_videos = []
-    loaded_videos = []
+
+for keyword in ("java", "microservices", "feature flags", "dora metrics", "principal developer", "devops",
+                "continuous deployment", "deployment automation",
+        "continuous delivery", "rust", "python"):
+
+    output_file = f"videos-{slugify(keyword)}.yml"
+
     videos: List[Dict] = []
     if os.path.exists(output_file):
         with open(output_file, "r") as f:
@@ -34,6 +40,12 @@ for keyword in ("python", "java", "devops", "continuous deployment", "continuous
             ignored_videos.extend(data.get("ignored", []))
             loaded_videos.extend((v["url"] for v in data["videos"]))
             videos.extend((v for v in data["videos"]))
+
+    print(f"Fetch {keyword} videos? [Y/n]")
+    c = readchar.readchar()
+    if c != '\r' and c.upper() != 'Y':
+        print(f'Skipping {keyword}')
+        continue
 
     print(f"Found {len(ignored_videos)} ignored videos")
     print(f"Found {len(loaded_videos)} existing videos")
@@ -43,14 +55,15 @@ for keyword in ("python", "java", "devops", "continuous deployment", "continuous
     while not done or pages_fetched == 10:
         pages_fetched += 1
         pageToken = None
-        video_data = api.get('search', q="Python", maxResults=50,
+        video_data = api.get('search', q=keyword, maxResults=50,
                          videoLicense="creativeCommon", type="video",
                          videoDuration="medium",
-                             order="rating",
+                             order="viewCount",
+                             relevanceLanguage="en",
                          videoDefinition="high",
                          publishedAfter=(datetime.now(timezone.utc) - timedelta(weeks=52 * 4)).isoformat(),
                              pageToken=pageToken)
-        pageToken = video_data["nextPageToken"]
+        pageToken = video_data.get("nextPageToken")
 
         for item in video_data["items"]:
             if len(videos) > MAX_VIDEOS:
@@ -63,7 +76,8 @@ for keyword in ("python", "java", "devops", "continuous deployment", "continuous
 
             snippet = item["snippet"]
             title = snippet["title"]
-            print(f"New video:\n\tTitle: {title}\n\tURL:   {url}\n\tType 'y' to keep")
+            channel = snippet["channelTitle"]
+            print(f"New video:\n\t\n\tChannel: {channel}\n\tTitle: {title}\n\tURL:   {url}\n\tType 'y' to keep")
             c = readchar.readchar()
             if c == 'q':
                 print('quitting')
@@ -88,4 +102,17 @@ for keyword in ("python", "java", "devops", "continuous deployment", "continuous
             with open(output_file, "w") as f:
                 yaml.dump(dict(videos=videos, ignored=ignored_videos), f)
 
+        if not pageToken:
+            print("No more results")
+            break
+
+        print(f"Fetch another set of videos? [Y/n]")
+        c = readchar.readchar()
+        if c != '\r' and c.upper() != 'Y':
+            print(f'Moving on')
+            break
+
     print(f"Created file with {len(videos)} videos: {output_file}")
+
+with open(ignored_videos_file, "w") as f:
+    yaml.dump(dict(ignored=ignored_videos), f)

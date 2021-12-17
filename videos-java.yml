@@ -1,2 +1,92 @@
-ignored: []
-videos: []
+ignored:
+- https://www.youtube.com/watch?v=GO7gs5clIdw
+- https://www.youtube.com/watch?v=hgUuKU1Zvuo
+- https://www.youtube.com/watch?v=Z9w6Vw9q6tQ
+- https://www.youtube.com/watch?v=mqfzEZ1CkJc
+- https://www.youtube.com/watch?v=XlyTou8pd4Q
+- https://www.youtube.com/watch?v=kpRO0a8Ky9k
+- https://www.youtube.com/watch?v=F16svYz9utY
+- https://www.youtube.com/watch?v=wtyrA9Oy3iI
+- https://www.youtube.com/watch?v=Ar-5XLLDN0Q
+- https://www.youtube.com/watch?v=V5KW1P6xidg
+- https://www.youtube.com/watch?v=KWcfLPI3miU
+- https://www.youtube.com/watch?v=63Ns3kKAlpo
+- https://www.youtube.com/watch?v=_H8PoxHQibE
+- https://www.youtube.com/watch?v=qBjkpv1tLVo
+- https://www.youtube.com/watch?v=vXlG1xh1R4Y
+- https://www.youtube.com/watch?v=Bbjxn9yVNJ8
+- https://www.youtube.com/watch?v=G1Vy3AYUg5Y
+- https://www.youtube.com/watch?v=c28RE8sm9Jk
+- https://www.youtube.com/watch?v=K0bRmP_nh5k
+- https://www.youtube.com/watch?v=lMuPYiFN-vQ
+- https://www.youtube.com/watch?v=EMPUQNrt59o
+- https://www.youtube.com/watch?v=Q3Q9mCPkQRY
+- https://www.youtube.com/watch?v=CvkUPvIMM7o
+- https://www.youtube.com/watch?v=bD8EZ0qmKvA
+- https://www.youtube.com/watch?v=HqWhQK04DBc
+- https://www.youtube.com/watch?v=yi7gDmdTlac
+- https://www.youtube.com/watch?v=DKoGNrCCesE
+- https://www.youtube.com/watch?v=YyaO1cZIRd8
+- https://www.youtube.com/watch?v=swAlQdbWOIs
+- https://www.youtube.com/watch?v=AQmDOHXZsDU
+- https://www.youtube.com/watch?v=JuIhjjF64dM
+- https://www.youtube.com/watch?v=NpiN-Xiw6Ug
+- https://www.youtube.com/watch?v=9Gru_IOTL0I
+- https://www.youtube.com/watch?v=n_rq2mShLUE
+- https://www.youtube.com/watch?v=x6reS9CfW0U
+- https://www.youtube.com/watch?v=SOd9NuEgR8A
+- https://www.youtube.com/watch?v=DsPfN4i-Tsc
+- https://www.youtube.com/watch?v=fjgYQ41R_Jk
+- https://www.youtube.com/watch?v=XLFkFjjbm1A
+- https://www.youtube.com/watch?v=tjkwQUC9LTs
+- https://www.youtube.com/watch?v=wR0ckjh3WW4
+- https://www.youtube.com/watch?v=3l0Ed8x2nCg
+- https://www.youtube.com/watch?v=r_gGGv3E0eQ
+- https://www.youtube.com/watch?v=OM7iDsf-mSI
+- https://www.youtube.com/watch?v=C3qXSZmfJqk
+- https://www.youtube.com/watch?v=P-QnqkKy1Lk
+- https://www.youtube.com/watch?v=sscB8n3l5g4
+- https://www.youtube.com/watch?v=pMWw_HktG3M
+- https://www.youtube.com/watch?v=M_1R3krPwRA
+- https://www.youtube.com/watch?v=vZ77akiV6vw
+- https://www.youtube.com/watch?v=qYF1eed42Fs
+- https://www.youtube.com/watch?v=pP_MySdmuZc
+- https://www.youtube.com/watch?v=OOQp_wFkMc4
+- https://www.youtube.com/watch?v=GnskzKVBUhQ
+videos:
+- channel:
+    id: UCsGakFIbOsj-fgPFLf1QlQA
+    title: vaadinofficial
+  description: Alejandro Duarte shows the LoginForm and LoginOverlay components of
+    Vaadin. 0:00 Intro 0:12 Manually implementing the ...
+  publishTime: '2021-04-14T18:30:34Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/pteip-kZm4M/hqdefault.jpg
+    width: 480
+  title: Implementing a login form in Java
+  url: https://www.youtube.com/watch?v=pteip-kZm4M
+- channel:
+    id: UCjR-Rw4Jaa9g7b7Ik7qYVnQ
+    title: Mike Poirier
+  description: This video tutorial will illustrate how to create a simple and functional
+    Graphical User Interface (GUI), using a combination of ...
+  publishTime: '2021-10-08T11:26:59Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/tQPgqTJ87Kc/hqdefault.jpg
+    width: 480
+  title: Java GUIs with Eclipse IDE and WindowBuilder
+  url: https://www.youtube.com/watch?v=tQPgqTJ87Kc
+- channel:
+    id: UCJUO-USvdXilfCsTUL9Zh_A
+    title: techtoolbox
+  description: Hello. In this episode, we'll go over how to make a complete clear
+    command! The bot will be able to delete up to 100 messages ...
+  publishTime: '2019-01-21T23:23:23Z'
+  thumbnail:
+    height: 360
+    url: https://i.ytimg.com/vi/DjjGeOeSuoA/hqdefault.jpg
+    width: 480
+  title: 'Code a Discord Bot in Java with Discord JDA! (Episode 2: Clear Command)'
+  url: https://www.youtube.com/watch?v=DjjGeOeSuoA
