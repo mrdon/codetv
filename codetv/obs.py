@@ -1,17 +1,9 @@
 from __future__ import annotations
 
 import logging
-import sys
-import time
-from dataclasses import dataclass
-from datetime import datetime
-from typing import Dict
 from typing import List
-from typing import Optional
 
-import yaml
-from obswebsocket.base_classes import Baserequests
-from quart import current_app
+from obsws_python import ReqClient
 
 try:
     from yaml import CLoader as Loader, CDumper as Dumper
@@ -26,54 +18,44 @@ FFMPEG_SOURCE = "ffmpeg_source"
 
 logging.basicConfig(level=logging.INFO)
 
-from obswebsocket import obsws, requests  # noqa: E402
-
 
 class Connection:
     def __init__(self):
         host = "localhost"
-        port = 4444
-        password = "sleuth"
-        self.started = False
+        port = 4455
+        password = "KMa460AdpjifR5f5"
 
-        self.ws = obsws(host, port, password)
-
-    def call(self, request: Baserequests) -> Baserequests:
-        self._ensure_connected()
-        return self.ws.call(request)
-
-    def _ensure_connected(self):
-        if self.started:
-            return
-
-        self.ws.connect()
+        self.obs = ReqClient(host=host,
+                             port=port,
+                             password=password,
+                             timeout=3)
         self.started = True
 
     def set_video(self, source: str, path):
-        self.call(
-            requests.SetSourceSettings(
-                sourceName=source,
-                sourceType=FFMPEG_SOURCE,
-                sourceSettings=dict(
-                    local_file=path,
-                ),
-            )
-        )
+        self.obs.set_input_settings(name=source, settings=dict(local_file=path), overlay=False)
 
     def show_scene(self, scene: str):
-        self.call(requests.SetCurrentScene(scene))
+        self.obs.set_current_program_scene(name=scene)
 
-    def toggle_credits(self, show: bool):
-        self.call(requests.SetSceneItemProperties("Credits", visible=show))
+    def toggle_credits(self, scene_name: str, show: bool):
+        resp = self.obs.get_scene_item_id(
+            scene_name=scene_name,
+            source_name="Credits",
+        )
+        self.obs.set_scene_item_enabled(
+            scene_name=scene_name,
+            item_id=resp.scene_item_id,
+            enabled=show,
+        )
 
     def set_credits(self, link: str):
-        self.call(requests.SetTextFreetype2Properties("Credits", text=link))
+        self.obs.set_input_settings(
+            name="Credits", settings=dict(text=link), overlay=True
+        )
 
     def set_up_next(self, title):
-        self.call(
-            requests.SetTextFreetype2Properties(
-                "Text: Up next", text=f"Up next: {title}"
-            )
+        self.obs.set_input_settings(
+            name="Up next", settings=dict(text=f"Up next: {title}"), overlay=True
         )
 
     def set_news_ticker(self, headlines: List[str]):
@@ -87,4 +69,6 @@ class Connection:
         else:
             text = "     ".join(headlines)
 
-        self.call(requests.SetTextFreetype2Properties("News ticker", text=text))
+        self.obs.set_input_settings(
+            name="News ticker", settings=dict(text=text), overlay=True
+        )

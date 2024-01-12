@@ -8,8 +8,8 @@ help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 
 venv: ## Create python venv
-	python3.9 -m venv venv
-	venv/bin/pip install pip-tools
+	python3.12 -m venv venv
+	venv/bin/pip install --upgrade pip-tools pip
 	venv/bin/pip-compile
 	venv/bin/pip install -r requirements.txt
 	
@@ -19,8 +19,8 @@ format: ## Format the code
 
 
 run: ## Run the app locally
-	docker-compose kill
-	docker-compose up -d
-	bin/set-from-env.sh
+#	docker-compose kill
+#	docker-compose up -d
+#	bin/set-from-env.sh
 	venv/bin/hypercorn --reload -b localhost:8090 codetv.web:app
 

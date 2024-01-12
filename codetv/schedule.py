@@ -179,8 +179,8 @@ class Scheduler:
 
         async def credits():
             await asyncio.sleep(3)
-            self.obs.toggle_credits(True)
+            self.obs.toggle_credits(self.video_scene_names.current, True)
             await asyncio.sleep(5)
-            self.obs.toggle_credits(False)
+            self.obs.toggle_credits(self.video_scene_names.current, False)
 
         asyncio.create_task(credits())
